@@ -1,6 +1,6 @@
 ## #YoEstoyConMisSanitarios
 
-Una iniciativa solidaria de [Josto Maffeo `@jostomaffeo`](https://twitter.com/JostoMaffeo) e [`@pachi_idigoras`](https://twitter.com/pachi_idigoras).
+Una iniciativa solidaria de [Josto Maffeo `@jostomaffeo`](https://twitter.com/JostoMaffeo) y [`@pachi_idigoras`](https://twitter.com/pachi_idigoras).
 
 ![#YoEstoyConMisSanitarios](YoEstoyConMisSanitarios.jpg)
 
